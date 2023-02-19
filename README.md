@@ -9,4 +9,7 @@ I am very excited for starting this journey and this repo will serve as tracking
 ### Progress
 ***
 -Python for Everybody ![](https://geps.dev/progress/25) <br>
+[Click here for more](https://github.com/aglaiak/Books-and-Courses/tree/main/Python%20for%20Everybody) <br> 
+
 -IBM Data Science Professional Certificate ![](https://geps.dev/progress/45) <br>
+[Click here for more](https://github.com/aglaiak/Books-and-Courses/tree/main/IBM%20Data%20Science%20Professional%20Certificate)
