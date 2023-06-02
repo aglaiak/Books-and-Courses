@@ -14,4 +14,6 @@ I am very excited for starting this journey and this repo will serve as tracking
 -IBM Data Science Professional Certificate ![](https://geps.dev/progress/45) <br>
 [Click here for more](https://github.com/aglaiak/Books-and-Courses/tree/main/IBM%20Data%20Science%20Professional%20Certificate)
 
--Learning GitHub !![](https://geps.dev/progress/55) <br>
+-Learning GitHub ![](https://geps.dev/progress/55) <br>
+[Click here for more](https://github.com/aglaiak/Books-and-Courses/tree/main/GitHub_LinkedIn_Learning)
+
