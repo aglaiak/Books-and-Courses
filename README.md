@@ -14,8 +14,8 @@ I am very excited for starting this journey and this repo will serve as tracking
 -IBM Data Science Professional Certificate ![](https://geps.dev/progress/70) <br>
 [Click here for more](https://github.com/aglaiak/Books-and-Courses/tree/main/IBM%20Data%20Science%20Professional%20Certificate)
 
--Learning GitHub ![](https://geps.dev/progress/100) <br>
-[Click here for more](https://github.com/aglaiak/Books-and-Courses/tree/main/GitHub_LinkedIn_Learning)
+-College Algebra with Python ![](https://geps.dev/progress/5) <br>
+[Click here for more](https://github.com/aglaiak/Books-and-Courses/tree/main/College%20Algebra%20with%20Python)
 
 -OSSU-Computer Science Degree ![](https://geps.dev/progress/3) <br>
-[Click here for more](https://ossu.firebaseapp.com/#/)
+[Click here for more](https://github.com/aglaiak/Books-and-Courses/tree/main/OSSU%20-%20Computer%20Science%20Degree)
